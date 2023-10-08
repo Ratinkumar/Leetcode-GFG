@@ -1,27 +1,16 @@
 class Solution {
 public:
-    int maxDotProduct(vector<int>& nums1, vector<int>& nums2) {
-        int n = nums1.size();
-        int m = nums2.size();
-        vector<vector<int>> memo(n, vector<int>(m, INT_MIN));
-        
-        function<int(int, int)> dp = [&](int i, int j) {
-            if (i == n || j == m) {
-                return INT_MIN;
+    int maxDotProduct(std::vector<int>& nums1, std::vector<int>& nums2) {
+        int m = nums1.size(), n = nums2.size();
+        std::vector<int> current(n + 1, INT_MIN), previous(n + 1, INT_MIN);
+
+        for (int i = 1; i <= m; ++i) {
+            for (int j = 1; j <= n; ++j) {
+                int curr_product = nums1[i-1] * nums2[j-1];
+                current[j] = std::max({curr_product, previous[j], current[j-1], curr_product + std::max(0, previous[j-1])});
             }
-            
-            if (memo[i][j] != INT_MIN) {
-                return memo[i][j];
-            }
-            
-            memo[i][j] = max(
-                nums1[i] * nums2[j] + max(dp(i + 1, j + 1), 0),
-                max(dp(i + 1, j), dp(i, j + 1))
-            );
-            
-            return memo[i][j];
-        };
-        
-        return dp(0, 0);
+            std::swap(current, previous);
+        }
+        return previous[n];
     }
 };
