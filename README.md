@@ -46,10 +46,12 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -58,5 +60,10 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0100-same-tree) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
