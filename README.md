@@ -43,4 +43,20 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
