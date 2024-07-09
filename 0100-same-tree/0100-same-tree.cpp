@@ -12,10 +12,18 @@
 class Solution {
 public:
     bool isSameTree(TreeNode* p, TreeNode* q) {
+        //if both nodes are NULL,they are identical
+        if(p==NULL && q==NULL)
+        {
+            return true;
+        }
+
+        //if one of the node is NULL,they are not identical
         if(p==NULL || q==NULL)
         {
-            return (p==q);
+            return false;
         }
+        //recusilvely check the left and right subtrees
         return (p->val == q->val) && isSameTree(p->left,q->left) && isSameTree(p->right,q->right);
     }
 };
