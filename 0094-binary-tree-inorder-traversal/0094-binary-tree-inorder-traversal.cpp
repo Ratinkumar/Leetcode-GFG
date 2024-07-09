@@ -26,7 +26,6 @@ public:
     vector<int> inorderTraversal(TreeNode* root) {
         vector<int>ans;
         inorder(root,ans);
-
         return ans;
     }
 };
