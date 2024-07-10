@@ -31,7 +31,7 @@ public:
                 q.pop();
 
                 //find position to fill node's value
-                int index=(flag) ? i : (size - i - 1);
+                int index=(flag) ? i : (size - 1 - i);
                 row[index]=node->val;
                 if(node->left)
                 {
