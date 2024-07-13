@@ -11,28 +11,25 @@
  */
 class Solution {
 public:
+    //Fastest way to solve diameter of a binary tree
+    // O(n)
 
+    int D=0;
     int height(TreeNode* root)
     {
-        if(root==NULL)
-        {
-            return 0;
-        }
+        if(root==NULL) return 0;
+
         int lh=height(root->left);
         int rh=height(root->right);
-        int ans=max(lh,rh);
 
-        return ans+1;
+        int currD=lh+rh;
+        D=max(D,currD);
+
+        return max(lh,rh)+1;
     }
 
     int diameterOfBinaryTree(TreeNode* root) {
-        if(root==NULL)
-        {
-            return 0;
-        }
-        int left=diameterOfBinaryTree(root->left);
-        int right=diameterOfBinaryTree(root->right);
-        int ans=height(root->left)+height(root->right);
-        return max(ans,max(left,right));
+        height(root);
+        return D;
     }
 };
