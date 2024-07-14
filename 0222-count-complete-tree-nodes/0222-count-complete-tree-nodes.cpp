@@ -19,8 +19,8 @@ public:
             return;
         }
 
-        inorder(root->left,count);
         count++;
+        inorder(root->left,count);
         inorder(root->right,count);
     }
 
