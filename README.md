@@ -57,6 +57,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -94,6 +95,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
 ## Stack
 |  |
@@ -105,4 +107,12 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
