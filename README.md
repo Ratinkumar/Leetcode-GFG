@@ -63,6 +63,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -108,6 +109,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0783-search-in-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Stack
 |  |
@@ -146,4 +148,8 @@
 |  |
 | ------- |
 | [2502-sort-the-people](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2502-sort-the-people) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
