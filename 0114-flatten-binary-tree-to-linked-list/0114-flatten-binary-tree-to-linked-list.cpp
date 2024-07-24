@@ -22,11 +22,11 @@ public:
         {
             auto cur=st.top();
             st.pop();
-            if(cur->right)
+            if(cur->right!=NULL)
             {
                 st.push(cur->right);
             }
-            if(cur->left)
+            if(cur->left!=NULL)
             {
                 st.push(cur->left);
             }
