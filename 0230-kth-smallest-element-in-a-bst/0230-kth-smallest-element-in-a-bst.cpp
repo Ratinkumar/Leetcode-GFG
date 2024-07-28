@@ -11,33 +11,26 @@
  */
 class Solution {
 public:
+    int kthSmallest(TreeNode* root, int &k) {
+        if(root==NULL) return -1;
 
-    void inorder(TreeNode* root,int k,int &counter,int &ksmallest)
-    {
-        if(root==NULL || counter >= k)
+        //LNR
+        //L
+        int leftans=kthSmallest(root->left,k);
+        if(leftans!=-1)
         {
-            return;
+            return leftans;
         }
-        //treverse to left
-        inorder(root->left,k,counter,ksmallest);
-        //increment counter after visiting left subtree
-        counter++;
-        //check if current node is kth smallest
-        if(counter==k)
+        //N
+        k--;
+        if(k==0)
         {
-            ksmallest=root->val;
-            return;
+            return root->val;
         }
-        //treverse to right
-        inorder(root->right,k,counter,ksmallest);
-    }
 
-    int kthSmallest(TreeNode* root, int k) {
-        int ksmallest=INT_MAX;
-        int counter=0;//counter to track visited nodes
-        
-        inorder(root,k,counter,ksmallest);
+        //R
+        int rightans=kthSmallest(root->right,k);
+        return rightans;
 
-        return ksmallest;
     }
 };
