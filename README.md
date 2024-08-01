@@ -37,6 +37,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0118-pascals-triangle) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2502-sort-the-people](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2502-sort-the-people) |
 ## Recursion
@@ -143,6 +144,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search
 |  |
