@@ -177,6 +177,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0058-length-of-last-word) |
 | [2502-sort-the-people](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2727-number-of-senior-citizens) |
 ## Binary Search Tree
