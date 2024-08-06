@@ -7,7 +7,7 @@ public:
             freq[c-'a']++;
         }
 
-        sort(freq.rbegin(),freq.rend()); //sort in descending order
+        sort(freq.begin(),freq.end(),greater<int>()); //sort in descending order
 
         int totalpush=0,m=0;
         for(int i=0;i<26;i++)
