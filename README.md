@@ -23,6 +23,7 @@
 ## Math
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2645-pass-the-pillow) |
@@ -47,6 +48,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0273-integer-to-english-words](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -185,6 +187,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0058-length-of-last-word) |
+| [0273-integer-to-english-words](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2727-number-of-senior-citizens) |
