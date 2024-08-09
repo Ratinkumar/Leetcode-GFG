@@ -166,6 +166,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0076-minimum-window-substring) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -189,6 +190,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0058-length-of-last-word) |
+| [0076-minimum-window-substring](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0076-minimum-window-substring) |
 | [0273-integer-to-english-words](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2502-sort-the-people) |
@@ -221,6 +223,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0076-minimum-window-substring) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0966-binary-subarrays-with-sum) |
 ## Prefix Sum
 |  |
