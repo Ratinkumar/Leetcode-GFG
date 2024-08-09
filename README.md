@@ -40,6 +40,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0118-pascals-triangle) |
+| [0966-binary-subarrays-with-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0966-binary-subarrays-with-sum) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -166,6 +167,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0966-binary-subarrays-with-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -216,4 +218,12 @@
 |  |
 | ------- |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0966-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0966-binary-subarrays-with-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0966-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
