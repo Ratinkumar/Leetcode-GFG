@@ -37,6 +37,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0031-next-permutation) |
+| [0053-maximum-subarray](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0118-pascals-triangle) |
@@ -151,6 +152,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Search
@@ -229,4 +231,8 @@
 |  |
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0966-binary-subarrays-with-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
