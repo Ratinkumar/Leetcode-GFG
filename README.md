@@ -41,6 +41,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0136-single-number) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0966-binary-subarrays-with-sum) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -163,6 +164,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0222-count-complete-tree-nodes) |
 ## Hash Table
 |  |
