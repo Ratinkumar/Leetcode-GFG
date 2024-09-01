@@ -43,7 +43,7 @@ public:
 
     bool compareLL(ListNode* head,ListNode* head2)
     {
-        while(head!=NULL && head2!=NULL)
+        while(head2!=NULL)
         {
             if(head->val != head2->val)
             {
