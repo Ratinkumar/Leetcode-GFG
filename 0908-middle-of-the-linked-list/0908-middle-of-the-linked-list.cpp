@@ -10,28 +10,21 @@
  */
 class Solution {
 public:
-    int findlength(ListNode* head)
-    {
-        ListNode* temp=head;
-        int len=0;
-        while(temp!=NULL)
-        {
-            temp=temp->next;
-            len++;
-        }
-        return len;
-    } 
     ListNode* middleNode(ListNode* head) {
-        int n=findlength(head);
-        int position=n/2 + 1;
+        //using fast and slow algorithm(Tortoise algo)
 
-        ListNode* temp=head;
-        while(position!=1)
+        ListNode* fast=head;
+        ListNode* slow=head;
+
+        while(fast!=NULL)
         {
-            position--;
-            temp=temp->next;
+            fast=fast->next;
+            if(fast!=NULL)
+            {
+                fast=fast->next;
+                slow=slow->next;
+            }
         }
-
-        return temp;
+        return slow;
     }
 };
