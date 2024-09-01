@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0206-reverse-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
 |  |
@@ -51,6 +52,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
