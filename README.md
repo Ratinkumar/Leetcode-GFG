@@ -20,6 +20,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0206-reverse-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0908-middle-of-the-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Math
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -153,6 +155,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -218,6 +221,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0031-next-permutation) |
+| [0234-palindrome-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0908-middle-of-the-linked-list) |
 ## Counting
