@@ -54,6 +54,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0966-binary-subarrays-with-sum) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2103-find-all-groups-of-farmland](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2103-find-all-groups-of-farmland) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2727-number-of-senior-citizens) |
@@ -119,6 +120,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2103-find-all-groups-of-farmland](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2103-find-all-groups-of-farmland) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -132,6 +134,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [2103-find-all-groups-of-farmland](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2103-find-all-groups-of-farmland) |
 ## Binary Tree
 |  |
 | ------- |
@@ -212,6 +215,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0695-max-area-of-island) |
+| [2103-find-all-groups-of-farmland](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2103-find-all-groups-of-farmland) |
 ## String
 |  |
 | ------- |
