@@ -58,6 +58,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2727-number-of-senior-citizens) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Recursion
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [0695-max-area-of-island](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2103-find-all-groups-of-farmland) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -135,6 +137,7 @@
 | [0695-max-area-of-island](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2103-find-all-groups-of-farmland) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -216,6 +219,7 @@
 | [0200-number-of-islands](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0695-max-area-of-island) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2103-find-all-groups-of-farmland) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## String
 |  |
 | ------- |
@@ -273,6 +277,7 @@
 | [0200-number-of-islands](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0695-max-area-of-island) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
