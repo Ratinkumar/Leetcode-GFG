@@ -33,6 +33,7 @@
 | [0273-integer-to-english-words](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2206-detonate-the-maximum-bombs) |
 | [2645-pass-the-pillow](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
@@ -59,6 +60,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2103-find-all-groups-of-farmland) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2206-detonate-the-maximum-bombs) |
 | [2502-sort-the-people](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -127,6 +129,7 @@
 | [0695-max-area-of-island](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2103-find-all-groups-of-farmland) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2206-detonate-the-maximum-bombs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -143,6 +146,7 @@
 | [0695-max-area-of-island](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0695-max-area-of-island) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2103-find-all-groups-of-farmland) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2206-detonate-the-maximum-bombs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
@@ -293,6 +297,7 @@
 |  |
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [2206-detonate-the-maximum-bombs](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2206-detonate-the-maximum-bombs) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -301,4 +306,8 @@
 |  |
 | ------- |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+## Geometry
+|  |
+| ------- |
+| [2206-detonate-the-maximum-bombs](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2206-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
