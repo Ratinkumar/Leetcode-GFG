@@ -55,6 +55,7 @@
 | [0695-max-area-of-island](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0695-max-area-of-island) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0966-binary-subarrays-with-sum) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2103-find-all-groups-of-farmland) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -214,6 +215,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2502-sort-the-people](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
@@ -225,6 +227,7 @@
 | [0419-battleships-in-a-board](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0695-max-area-of-island) |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2103-find-all-groups-of-farmland) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## String
@@ -264,6 +267,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1845-largest-submatrix-with-rearrangements](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
