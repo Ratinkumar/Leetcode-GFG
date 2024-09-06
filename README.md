@@ -195,6 +195,7 @@
 | [0053-maximum-subarray](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Binary Search
 |  |
 | ------- |
@@ -306,6 +307,7 @@
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0813-all-paths-from-source-to-target) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2121-find-if-path-exists-in-graph) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2206-detonate-the-maximum-bombs) |
 ## Minimum Spanning Tree
@@ -324,4 +326,12 @@
 |  |
 | ------- |
 | [0813-all-paths-from-source-to-target](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0813-all-paths-from-source-to-target) |
+## Topological Sort
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
