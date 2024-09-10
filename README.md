@@ -61,6 +61,7 @@
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2103-find-all-groups-of-farmland) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2206-detonate-the-maximum-bombs) |
 | [2502-sort-the-people](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2502-sort-the-people) |
@@ -155,6 +156,7 @@
 | [1036-rotting-oranges](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1036-rotting-oranges) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2103-find-all-groups-of-farmland) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2121-find-if-path-exists-in-graph) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2206-detonate-the-maximum-bombs) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -314,6 +316,7 @@
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2121-find-if-path-exists-in-graph) |
+| [2151-the-time-when-the-network-becomes-idle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2206-detonate-the-maximum-bombs) |
 ## Minimum Spanning Tree
 |  |
