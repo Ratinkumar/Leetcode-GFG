@@ -1,6 +1,6 @@
 class Solution {
 public:
-
+    //dijkastra algo
     int disj(vector<vector<pair<int,int>>> &adj, int src, int n) {
         priority_queue<pair<int,int>,vector<pair<int,int>>,greater<pair<int,int>>> pq;
         pq.push({0, src});
