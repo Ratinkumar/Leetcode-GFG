@@ -129,6 +129,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2103-find-all-groups-of-farmland) |
@@ -148,6 +149,7 @@
 | [0463-island-perimeter](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0695-max-area-of-island) |
+| [0744-network-delay-time](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0813-all-paths-from-source-to-target) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1036-rotting-oranges) |
@@ -307,6 +309,7 @@
 ## Graph
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0813-all-paths-from-source-to-target) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -335,5 +338,10 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0744-network-delay-time) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0744-network-delay-time](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0744-network-delay-time) |
 <!---LeetCode Topics End-->
