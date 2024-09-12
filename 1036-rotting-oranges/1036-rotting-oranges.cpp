@@ -1,62 +1,45 @@
 class Solution {
 public:
-    int orangesRotting(vector<vector<int>>& grid) {
-        int nr=grid.size();
-        int nc=grid[0].size();
 
-        int fresh=0;
-        queue<pair<int,int>>rotten;
-
-        for(int i=0;i<nr;i++)
+    void dfs(vector<vector<int>>& grid,int i,int j,int min)
+    {
+        if(i<0 || j<0 || i>=grid.size() || j>=grid[0].size() || grid[i][j]==0 || (grid[i][j]<min && grid[i][j]>1))
         {
-            for(int j=0;j<nc;j++)
+            return;
+        }
+
+        grid[i][j]=min;
+        dfs(grid,i+1,j,min+1);
+        dfs(grid,i-1,j,min+1);
+        dfs(grid,i,j+1,min+1);
+        dfs(grid,i,j-1,min+1);
+
+    }
+
+    int orangesRotting(vector<vector<int>>& grid) {
+        int min=2;//minute
+
+        for(int i=0;i<grid.size();i++)
+        {
+            for(int j=0;j<grid[0].size();j++)
             {
                 if(grid[i][j]==2)
                 {
-                    rotten.push({i,j});
-                }
-                else if(grid[i][j]==1)
-                {
-                    fresh++;
+                    //dfs
+                    dfs(grid,i,j,min);
                 }
             }
         }
 
-        int time=0;
-        vector<int>direction={-1,0,1,0,-1};
-
-        while(!rotten.empty() && fresh>0)
+        for(auto v:grid)//it gives me a vector
         {
-            time++;
-
-            for(int i=rotten.size();i>0;i--)
+            for(auto it:v)//and now iterate on that vector
             {
-                auto pos=rotten.front();
-                rotten.pop();
-
-                for(int j=0;j<4;j++)
-                {
-                    int nrow=pos.first+direction[j];
-                    int ncol=pos.second+direction[j+1];
-
-                    if(nrow >=0 && nrow<nr && ncol>=0 && ncol<nc && grid[nrow][ncol]==1)
-                    {
-                        fresh--;
-                        grid[nrow][ncol]=2;
-                        rotten.push({nrow,ncol});
-                    }
-                }
+                if(it==1) return -1;
+                min=max(min,it);
             }
         }
 
-        if(fresh>0)
-        {
-            return -1;
-        }
-        else
-        {
-            return time;
-        }
-        
+        return min - 2;
     }
 };
