@@ -121,6 +121,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
@@ -147,6 +148,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0463-island-perimeter](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0463-island-perimeter) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0695-max-area-of-island](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0695-max-area-of-island) |
@@ -311,6 +313,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [0744-network-delay-time](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0744-network-delay-time) |
 | [0813-all-paths-from-source-to-target](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0813-all-paths-from-source-to-target) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -337,6 +340,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0207-course-schedule) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
