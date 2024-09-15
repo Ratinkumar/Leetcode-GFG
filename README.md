@@ -23,6 +23,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0908-middle-of-the-linked-list) |
@@ -235,6 +236,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0148-sort-list) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
@@ -281,6 +283,7 @@
 | [0031-next-permutation](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -308,6 +311,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0148-sort-list) |
 ## Union Find
 |  |
 | ------- |
@@ -359,4 +363,8 @@
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0744-network-delay-time) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
