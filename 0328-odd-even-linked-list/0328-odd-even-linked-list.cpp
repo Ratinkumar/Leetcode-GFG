@@ -26,11 +26,11 @@ public:
         int cnt = lnt/2;
         while(cnt--) {
             prev->next = curr->next;
-                prev = curr->next;
-                curr->next = NULL;
-                temp->next = curr;
-                temp = curr;
-                curr=prev->next;
+            prev = curr->next;
+            curr->next = NULL;
+            temp->next = curr;
+            temp = curr;
+            curr=prev->next;
         }
 
         return head;
