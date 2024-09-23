@@ -42,6 +42,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2645-pass-the-pillow) |
@@ -50,6 +51,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0118-pascals-triangle) |
@@ -250,6 +252,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0200-number-of-islands) |
