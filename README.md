@@ -34,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -57,6 +58,7 @@
 | [0118-pascals-triangle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0283-move-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0419-battleships-in-a-board) |
@@ -298,6 +300,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
