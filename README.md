@@ -61,6 +61,7 @@
 | [0283-move-zeroes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0283-move-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0463-island-perimeter) |
+| [0485-max-consecutive-ones](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0733-flood-fill) |
