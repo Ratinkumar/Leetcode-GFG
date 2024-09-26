@@ -38,6 +38,7 @@
 | [0273-integer-to-english-words](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
 | [1642-water-bottles](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2032-largest-odd-number-in-string](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2032-largest-odd-number-in-string) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2206-detonate-the-maximum-bombs) |
 | [2645-pass-the-pillow](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2645-pass-the-pillow) |
 ## Simulation
@@ -277,6 +278,7 @@
 | [0058-length-of-last-word](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0076-minimum-window-substring) |
 | [0273-integer-to-english-words](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
+| [2032-largest-odd-number-in-string](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2032-largest-odd-number-in-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2727-number-of-senior-citizens) |
@@ -314,6 +316,7 @@
 |  |
 | ------- |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2032-largest-odd-number-in-string](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2032-largest-odd-number-in-string) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
 |  |
