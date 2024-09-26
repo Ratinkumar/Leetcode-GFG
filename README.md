@@ -61,6 +61,7 @@
 | [0283-move-zeroes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0283-move-zeroes) |
 | [0419-battleships-in-a-board](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0419-battleships-in-a-board) |
 | [0463-island-perimeter](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0463-island-perimeter) |
+| [0560-subarray-sum-equals-k](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0733-flood-fill) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0966-binary-subarrays-with-sum) |
@@ -234,6 +235,7 @@
 | [0141-linked-list-cycle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0160-intersection-of-two-linked-lists) |
+| [0560-subarray-sum-equals-k](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0966-binary-subarrays-with-sum) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -317,6 +319,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0966-binary-subarrays-with-sum) |
 ## Divide and Conquer
 |  |
