@@ -1,25 +1,24 @@
 class Solution {
 public:
 
-    int usingMemo(int n,vector<int>&dp)
+    int usingTabulation(int n)
     {
-        if(n==0 || n==1)
+        vector<int>dp(n+1,-1);
+
+        dp[0]=0;
+        if(n==0) return 0;
+        dp[1]=1;
+
+        for(int i=2;i<=n;i++)
         {
-            return n;
+            dp[i]=dp[i-1]+dp[i-2];
         }
 
-        if(dp[n]!=-1)
-        {
-            return dp[n];
-        }
-
-        dp[n]=usingMemo(n-1,dp)+usingMemo(n-2,dp);
         return dp[n];
     }
 
     int fib(int n) {
-        vector<int>dp(n+1,-1);
-        int ans=usingMemo(n,dp);
+        int ans=usingTabulation(n);
         return ans;
     }
 };
