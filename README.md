@@ -36,6 +36,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
+| [1013-fibonacci-number](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1013-fibonacci-number) |
 | [1642-water-bottles](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2032-largest-odd-number-in-string](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2032-largest-odd-number-in-string) |
@@ -87,6 +88,7 @@
 | [0206-reverse-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
+| [1013-fibonacci-number](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -220,6 +222,7 @@
 | [0118-pascals-triangle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0152-maximum-product-subarray) |
+| [1013-fibonacci-number](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1013-fibonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Binary Search
 |  |
@@ -388,4 +391,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0148-sort-list) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
