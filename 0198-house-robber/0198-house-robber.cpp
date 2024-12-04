@@ -11,7 +11,7 @@ public:
         return max(include,exclude);
     }
 
-    //Using DP
+    //Using Memoization Method
     int UsingMemo(vector<int>& nums,int index,vector<int>&dp)
     {
         if(index>=nums.size()) return 0;
@@ -26,9 +26,17 @@ public:
         return dp[index];
     }
 
+    //Using Tabulation Method
+    // int usingTabu(vector<int>&nums,int index,vector<int>&dp)
+    // {
+    //     if(index>=nums.size()) return 0;
+
+
+    // }
+
     int rob(vector<int>& nums) {
         int index=0;
-        vector<int>dp(nums.size()+1,-1);
+        vector<int>dp(nums.size(),-1);
         int ans=UsingMemo(nums,index,dp);
         return ans;
     }
