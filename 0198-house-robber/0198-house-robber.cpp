@@ -44,6 +44,31 @@ public:
         return dp[index];
     }
 
+    //Using Space Opimization
+    int UsingSO(vector<int>&nums)
+    {
+        int n=nums.size();
+        int prev=nums[n-1];
+        int next=0;
+        int curr=0;
+
+        for(int i=n-2;i>=0;i--)
+        {
+            // int tempAns=0;
+            // if(i+2 < n)
+            // {
+            //     tempAns=next;
+            // }
+            int include=nums[i]+next;
+            int exclude=0+prev;
+            curr=max(include,exclude);
+
+            next=prev;
+            prev=curr;
+        }
+        return prev;
+    }
+
     int rob(vector<int>& nums) {
         int index=0;
         int n=nums.size();
@@ -55,8 +80,11 @@ public:
         // int ans=UsingMemo(nums,index,dp);
         // return ans;
         
-        vector<int>dp(n+1,0);
-        int ans=UsingTabu(nums,index,dp);
+        // vector<int>dp(n+1,0);
+        // int ans=UsingTabu(nums,index,dp);
+        // return ans;
+
+        int ans=UsingSO(nums);
         return ans;
     }
 };
