@@ -34,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1013-fibonacci-number) |
@@ -220,6 +221,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0118-pascals-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0152-maximum-product-subarray) |
@@ -396,5 +398,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
