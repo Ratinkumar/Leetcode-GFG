@@ -82,6 +82,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2206-detonate-the-maximum-bombs) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -254,6 +255,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -264,6 +266,7 @@
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1613-find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Matrix
@@ -321,6 +324,7 @@
 |  |
 | ------- |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2331-intersection-of-multiple-arrays](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2331-intersection-of-multiple-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
 |  |
