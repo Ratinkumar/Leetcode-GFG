@@ -49,6 +49,7 @@
 | [0054-spiral-matrix](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2645-pass-the-pillow](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2645-pass-the-pillow) |
 ## Array
 |  |
@@ -80,6 +81,7 @@
 | [2151-the-time-when-the-network-becomes-idle](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2151-the-time-when-the-network-becomes-idle) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2206-detonate-the-maximum-bombs](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2206-detonate-the-maximum-bombs) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2502-sort-the-people](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -314,6 +316,7 @@
 | [0283-move-zeroes](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/0908-middle-of-the-linked-list) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2265-partition-array-according-to-given-pivot) |
 ## Counting
 |  |
 | ------- |
