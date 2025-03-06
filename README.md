@@ -45,6 +45,7 @@
 | [2206-detonate-the-maximum-bombs](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2206-detonate-the-maximum-bombs) |
 | [2645-pass-the-pillow](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2645-pass-the-pillow) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2649-count-total-number-of-colored-cells) |
+| [3227-find-missing-and-repeated-values](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 | [2502-sort-the-people](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2727-number-of-senior-citizens) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/3227-find-missing-and-repeated-values) |
 ## Recursion
 |  |
 | ------- |
@@ -259,6 +261,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2502-sort-the-people) |
+| [3227-find-missing-and-repeated-values](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/3227-find-missing-and-repeated-values) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -286,6 +289,7 @@
 | [1845-largest-submatrix-with-rearrangements](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2103-find-all-groups-of-farmland](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2103-find-all-groups-of-farmland) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/Ratinkumar/Leetcode-GFG/tree/master/3227-find-missing-and-repeated-values) |
 ## String
 |  |
 | ------- |
